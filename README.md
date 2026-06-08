@@ -1,6 +1,8 @@
 # banking-modernization-case-study
 Enterprise Banking Platform Modernization | Microservices | AWS | Data Migration | CI/CD
 
+
+
 # Banking Data Modernization Platform
 
 ## Overview
@@ -35,8 +37,6 @@ Agile / Scrum
 * Automation Test Engineers
 * DevOps Engineers
 * Scrum Master
-* Product Owners
-* Business Analysts
 
 ### Technology Stack
 
